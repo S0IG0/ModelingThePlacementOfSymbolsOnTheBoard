@@ -24,6 +24,7 @@
     <ProjectGuid>{616c5126-6a65-438d-a403-b4c059eca933}</ProjectGuid>
     <RootNamespace>Sergey</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ModelingThePlacementOfSymbolsOnTheBoard</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
